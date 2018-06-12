@@ -1,0 +1,82 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Coffee Order</string>
+
+    <string name="quantity">Quantity</string>
+
+    <string name="toppings_header">Toppings</string>
+
+    <string name="whipped_cream">Whipped Cream</string>
+
+    <string name="chocolate">Chocolate</string>
+
+    <string name="view_order">View Order</string>
+
+    <!--Summary Activity-->
+    <string name="order_summary">Order Summary</string>
+
+    <string name="name_summary">Name:</string>
+
+    <string name="price_summary">Price:</string>
+
+    <string name="description_summary">Description:</string>
+
+    <string name="name_enquiry">Please enter your name</string>
+
+    <string name="place_order">Place Order</string>
+
+    <!--String for minimum number of coffees - Toast-->
+    <string name="minimum_coffees">Minimum of 1 coffee!</string>
+
+    <!--String for maximum number of coffees - Toast-->
+    <string name="maximum_coffees">Maximum 100 coffees!</string>
+
+    <!--No Toppings-->
+    <string name="no_toppings"> no toppings</string>
+
+    <!--Coffee-->
+    <string name="coffee"><xliff:g id="space">\u0020</xliff:g>coffee</string>
+
+    <!--Coffees-->
+    <string name="coffees"><xliff:g id="space">\u0020</xliff:g>coffees</string>
+
+    <!--Whipped Cream Topping-->
+    <string name="whipped_cream_topping">whipped cream topping</string>
+
+    <!--Chocolate Topping-->
+    <string name="chocolate_topping">chocolate topping</string>
+
+    <!--Whipped Cream and Chocolate Toppings-->
+    <string name="whipped_cream_chocolate">whipped cream and chocolate toppings</string>
+
+    <string name="with">\u0020with\u0020</string>
+
+    <string name="for_name"><xliff:g id="space">\u0020</xliff:g>for <xliff:g id="customer_name" example="Joe">%s.</xliff:g></string>
+
+    <!--String for sending order toast-->
+    <string name="sending_order">Sending Order...</string>
+
+    <!--Email Subject-->
+    <string name="subject_email">Coffee Order for <xliff:g id="customer_name" example="Joe">%s</xliff:g></string>
+
+    <!--Email Toppings-->
+    <string name="toppings_email">Toppings: <xliff:g id="toppings" example="chocolate">%s</xliff:g></string>
+
+    <!--Because I need topping and toppings-->
+    <string name="topping">topping</string>
+    <string name="toppings">toppings</string>
+
+    <!--"Quantity" in email-->
+    <string name="quantity_email">Quantity: <xliff:g id="quantity" example="3">%d</xliff:g></string>
+
+    <!--"Total: " in email-->
+    <string name="total_email">Total: <xliff:g id="total">%s</xliff:g></string>
+
+    <!--"Name: "-->
+    <string name="name_email">Name: <xliff:g id="customer_name" example="Joe">%s</xliff:g></string>
+
+    <string name="thank_you">Thank You!</string>
+
+
+
+
+</resources>

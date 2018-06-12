@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Pedido de Café</string>
+    <string name="quantity">Cantidad</string>
+    <string name="toppings_header">Ingredientes</string>
+    <string name="whipped_cream">Crema Batida</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="view_order">Ver Pedido</string>
+    <string name="order_summary">Resumen de Orden</string>
+    <string name="name_summary">Nombre:</string>
+    <string name="price_summary">Precio:</string>
+    <string name="description_summary">Descripción:</string>
+    <string name="name_enquiry">Por favor, escriba su nombre</string>
+    <string name="place_order">Realizar Pedido</string>
+    <string name="minimum_coffees">Mínimo de 1 café</string>
+    <string name="maximum_coffees">Máximo de 1 café</string>
+    <string name="no_toppings">no ingredientes</string>
+    <string name="coffee"><xliff:g id="space">\u0020</xliff:g>café</string>
+    <string name="coffees"><xliff:g id="space">\u0020</xliff:g>cafés</string>
+    <string name="whipped_cream_topping">ingrediente de crema batida</string>
+    <string name="chocolate_topping">ingrediente de chocolate</string>
+    <string name="whipped_cream_chocolate">crema batida y ingredientes de chocolate</string>
+    <string name="with"><xliff:g id="space">\u0020</xliff:g>con<xliff:g id="space">\u0020</xliff:g></string>
+    <string name="for_name"><xliff:g id="space">\u0020</xliff:g>para <xliff:g example="Joe" id="customer_name">%s.</xliff:g></string>
+    <string name="sending_order">Orden de Envio...</string>
+    <string name="subject_email">Pedido de Café para <xliff:g id="customer_name" example="Joe">%s</xliff:g></string>
+    <string name="toppings_email">Ingredientes: <xliff:g id="toppings" example="chocolate">%s</xliff:g></string>
+    <string name="toppings">ingredientes</string>
+    <string name="topping">ingrediente</string>
+    <string name="quantity_email">Cantidad: <xliff:g id="quantity" example="3">%d</xliff:g></string>
+    <string name="total_email">Total: <xliff:g id="total">%s</xliff:g></string>
+    <string name="name_email">Nombre: <xliff:g id="customer_name" example="Joe">%s</xliff:g></string>
+    <string name="thank_you">¡Gracias!</string>
+</resources>
